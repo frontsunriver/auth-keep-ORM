@@ -23,13 +23,13 @@ Client-Side
 
 * webpack - builds the client-side portion of our app out of various assets, dependencies, and modules
 
-
+* Sequelize - ORM Model
 
 Server-Side
 
 * express - a node.js http server framework and interface
 
-* mongoose - mongoDB object modeling tool
+* mysql - mysql2 tool
 
 * jwt-simple - we use this module's encode method to create our JSON Web Tokens (JWTs)
 
